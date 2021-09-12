@@ -1,6 +1,6 @@
 {
   "name": "css-grid-helper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helper classes for laying out a css grid",
   "main": "index.js",
   "author": "lazaroofarrill@gmail.com",

@@ -1,0 +1,10 @@
+@import url("./grid-base.sass");
+.grid-rows-auto {
+  grid-auto-rows: 1fr;
+}
+
+.grid-cols-auto {
+  grid-auto-columns: 1fr;
+}
+
+/*# sourceMappingURL=css-grid-helper.css.map */

@@ -6,7 +6,7 @@
   "author": "lazaroofarrill@gmail.com",
   "license": "MIT",
   "scripts": {
-    "build": "rm dist/* && sass src:dist"
+    "build": "rm -rf dist && sass src:dist"
   },
   "dependencies": {
     "sass": "^1.39.2"

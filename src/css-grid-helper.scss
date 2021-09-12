@@ -1,9 +1,10 @@
 @use "grid-base";
 
 .grid-rows-auto {
-    grid-auto-rows: 1fr
+    grid-auto-rows: minmax(max-content, 1fr)
 }
 
+
 .grid-cols-auto {
-    grid-auto-columns: 1fr
+    grid-auto-columns: minmax(max-content, 1fr)
 }

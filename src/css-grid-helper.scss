@@ -1,4 +1,4 @@
-@import url('./grid-base.sass');
+@use "grid-base";
 
 .grid-rows-auto {
     grid-auto-rows: 1fr

@@ -8,3 +8,10 @@
 .grid-cols-auto {
     grid-auto-columns: minmax(max-content, 1fr)
 }
+
+//@media screen and (min-device-width: 600px) {
+//    .grid-cols-sm-1 {
+//        @extend .grid-cols-1;
+//    }
+//}
+
